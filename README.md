@@ -37,8 +37,10 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/942cfc13-c209-42df-be8a-13f7ca72d09e" width="150"/>
-  <img src ="https://github.com/user-attachments/assets/de265878-5449-4148-a4d6-6347401e460d" width = "150" />
-  <img src ="https://github.com/user-attachments/assets/7b97247d-1f7a-4450-ab98-794a6dfa5f7a" width = "100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;  <!-- 4 spaces -->
+  <img src="https://github.com/user-attachments/assets/de265878-5449-4148-a4d6-6347401e460d" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;  <!-- 4 spaces -->
+  <img src="https://github.com/user-attachments/assets/7b97247d-1f7a-4450-ab98-794a6dfa5f7a" width="100" />
 </p>
 
 #### 💻 Languages
