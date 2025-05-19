@@ -5,13 +5,13 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 
 
-![618cc9674dc60b1e2b3f66187edfaf6f](https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29)
+<img align="center" src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29"  />
+
 
 # 🛠 Skills
 
 
-<img align="right" src="https://github.com/user-attachments/assets/c3c8b58a-5053-4003-9788-c67bdffdca12" width="120" />
-<img align="right" src="https://github.com/user-attachments/assets/cb20e0f5-a41b-4805-81cb-847f9100888e" width= "120" />
+<img align="right" src="https://github.com/user-attachments/assets/cb20e0f5-a41b-4805-81cb-847f9100888e" width= "170" />
 
   - 📱 Flutter & Dart
   - 🎨 UI/UX Design (Figma)
@@ -24,10 +24,9 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/942cfc13-c209-42df-be8a-13f7ca72d09e" width="120"/>
-  <img src ="https://github.com/user-attachments/assets/de265878-5449-4148-a4d6-6347401e460d" width = "120" />
-  <img src ="https://github.com/user-attachments/assets/f32c7101-8bdf-40cb-aca4-8001f8982f05" width = "120" />
-  <img src ="https://github.com/user-attachments/assets/7b97247d-1f7a-4450-ab98-794a6dfa5f7a" width = "70" />
+  <img src="https://github.com/user-attachments/assets/942cfc13-c209-42df-be8a-13f7ca72d09e" width="150"/>
+  <img src ="https://github.com/user-attachments/assets/de265878-5449-4148-a4d6-6347401e460d" width = "150" />
+  <img src ="https://github.com/user-attachments/assets/7b97247d-1f7a-4450-ab98-794a6dfa5f7a" width = "100" />
 </p>
 
 #### 💻 Languages
