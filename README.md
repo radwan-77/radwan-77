@@ -1,20 +1,23 @@
 
 
-# 👋 About Me
+# 👋 About Me  
 I'm a **mobile developer** focused on **Flutter**, with experience in **backend development** and **UI/UX design**. I’ve also worked a bit with **Laravel** and enjoy building clean, user-friendly apps.
+
+
+
+![618cc9674dc60b1e2b3f66187edfaf6f](https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29)
 
 # 🛠 Skills
 
-- 📱 Flutter & Dart  
-- 🎨 UI/UX Design (Figma)  
-- 🛠 Backend Development (Laravel)     
-- 🔥 Firebase & REST APIs  
-- 🧰 Git & GitHub  
 
+<img align="right" src="https://github.com/user-attachments/assets/c3c8b58a-5053-4003-9788-c67bdffdca12" width="220" />
+<img align="right" src="https://github.com/user-attachments/assets/cb20e0f5-a41b-4805-81cb-847f9100888e" width= "220" />
 
-
-
-
+  - 📱 Flutter & Dart
+  - 🎨 UI/UX Design (Figma)
+  - 🛠 Backend Development (Laravel)
+  - 🔥 Firebase & REST APIs
+  - 🧰 Git & GitHub
 
 
 
@@ -23,9 +26,8 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/942cfc13-c209-42df-be8a-13f7ca72d09e" width="200"/>
   <img src ="https://github.com/user-attachments/assets/de265878-5449-4148-a4d6-6347401e460d" width = "200" />
-    <img src ="https://github.com/user-attachments/assets/f32c7101-8bdf-40cb-aca4-8001f8982f05" width = "200" />
-      <img src ="https://github.com/user-attachments/assets/7b97247d-1f7a-4450-ab98-794a6dfa5f7a" width = "150" />
-
+  <img src ="https://github.com/user-attachments/assets/f32c7101-8bdf-40cb-aca4-8001f8982f05" width = "200" />
+  <img src ="https://github.com/user-attachments/assets/7b97247d-1f7a-4450-ab98-794a6dfa5f7a" width = "130" />
 </p>
 
 #### 💻 Languages
@@ -48,7 +50,6 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-
 #### 🛠️ Other Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -59,31 +60,19 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=radwan-77&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=radwan-77&theme=midnight-purple&hide_border=false)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-77&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
 </p>
-
-
-
-
 
 # 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+<!-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)-->
 
-
-
-  <!-- ![image](https://github.com/user-attachments/assets/efc01d21-0037-4edb-88a1-4250a0410532)-->
-    <!--   //[![yooooo](https://visitcount.itsvg.in/api?id=radwan-77&icon=4&color=10)](https://visitcount.itsvg.in)-->
-
-
----
+<!-- ![image](https://github.com/user-attachments/assets/efc01d21-0037-4edb-88a1-4250a0410532)-->
+<!-- //[![yooooo](https://visitcount.itsvg.in/api?id=radwan-77&icon=4&color=10)](https://visitcount.itsvg.in)-->
