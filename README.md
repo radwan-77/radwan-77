@@ -8,6 +8,9 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 <img align="center" src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29"  />
 
 
+
+
+
 # 🛠 Skills
 
 
