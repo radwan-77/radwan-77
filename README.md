@@ -6,14 +6,7 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 
 <img  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" /><br>
-<img  src="https://github.com/user-attachments/assets/5d1249c6-23f8-45c7-96f8-eb4e2efffcd7"  /><br>
-<img  src="https://github.com/user-attachments/assets/954fa4db-14e3-43db-afdf-ce4cb63c7b1d"  /><br>
-<img  src="https://github.com/user-attachments/assets/02114962-450b-4a43-b19a-93e29e7e5b4b"  /><br>
-<img  src="https://github.com/user-attachments/assets/98da29c0-0fba-4e39-8eb2-c82a4fcd77bc"  /><br>
-<img  src="https://github.com/user-attachments/assets/ca4e852d-3cd9-4e6c-be7e-79e0919b71e1" /><br>
-<img  src="https://github.com/user-attachments/assets/a41338d2-3301-46da-ab87-7e821fd6dcc8"  /><br>
-<img  src="https://github.com/user-attachments/assets/696d0e35-eea0-4d10-8e24-b2a4aa05ed63"  /><br>
-<img  src="https://github.com/user-attachments/assets/a639e282-39c1-4078-b419-aa1dd3dc34a6"  /><br>
+
 
 
 
