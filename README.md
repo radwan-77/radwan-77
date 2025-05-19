@@ -5,7 +5,7 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 
 
-<img align="center" src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29"  />
+<img align="center" src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29"  /><br>
 ![5e6e026c8308d3806f7fa62752d1b9ae](https://github.com/user-attachments/assets/5d1249c6-23f8-45c7-96f8-eb4e2efffcd7)
 
 
