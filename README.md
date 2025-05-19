@@ -5,8 +5,16 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 
 
-<img align="center"  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" style="max-width:100%;display:block;margin:0 auto;" /><br>
-![5e6e026c8308d3806f7fa62752d1b9ae](https://github.com/user-attachments/assets/5d1249c6-23f8-45c7-96f8-eb4e2efffcd7)
+<img align="center"  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" /><br>
+<!--![5e6e026c8308d3806f7fa62752d1b9ae](https://github.com/user-attachments/assets/5d1249c6-23f8-45c7-96f8-eb4e2efffcd7)<br>
+![7454d85894bc7fb08a07ed092fcbce41](https://github.com/user-attachments/assets/954fa4db-14e3-43db-afdf-ce4cb63c7b1d)<br>
+![0cad29174f903830ecb11059448ced34](https://github.com/user-attachments/assets/02114962-450b-4a43-b19a-93e29e7e5b4b)<br>
+![58f8d9c8d61d33a4c2ab4f9864ada126](https://github.com/user-attachments/assets/98da29c0-0fba-4e39-8eb2-c82a4fcd77bc)<br>
+![66f74846f838c149a848b8d6c848ebc1](https://github.com/user-attachments/assets/ca4e852d-3cd9-4e6c-be7e-79e0919b71e1)<br>
+![e53e8654c20385d0398a4717af2fcb8c](https://github.com/user-attachments/assets/a41338d2-3301-46da-ab87-7e821fd6dcc8)<br>
+![8c48281a5a1123385d37cd59d310cf8b](https://github.com/user-attachments/assets/696d0e35-eea0-4d10-8e24-b2a4aa05ed63)<br>
+![3cdfaa826b40efdc80c00b5d914399f9](https://github.com/user-attachments/assets/a639e282-39c1-4078-b419-aa1dd3dc34a6)<br>
+-->
 
 
 
