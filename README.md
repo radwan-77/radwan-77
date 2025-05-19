@@ -4,8 +4,9 @@
 I'm a **mobile developer** focused on **Flutter**, with experience in **backend development** and **UI/UX design**.
 
 
+<img  src="https://github.com/user-attachments/assets/8f5cd546-8c0f-4395-a442-f78ab1256254" width ="100%" /><br>
 
-<img  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" /><br>
+<!--<img  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" /><br>
 
 
 <img  src="https://github.com/user-attachments/assets/78512285-197a-4e4b-8206-ede53f1d6aaa" width ="100%" /><br>
@@ -21,6 +22,7 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 <img  src="https://github.com/user-attachments/assets/e8a1ef3a-67b3-4a03-8954-efe4810155b5" width ="100%" /><br>
 
 <img  src="https://github.com/user-attachments/assets/446c0be9-9ef2-4962-9dab-c98ad26cb7e1" width ="100%" /><br>
+-->
 
 
 
