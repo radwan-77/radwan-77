@@ -3,11 +3,13 @@
 # 👋 About Me  
 I'm a **mobile developer** focused on **Flutter**, with experience in **backend development** and **UI/UX design**.
 
+<img  src="https://github.com/user-attachments/assets/446c0be9-9ef2-4962-9dab-c98ad26cb7e1" width ="100%" /><br>
 
 
+<!--
 <img  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" /><br>
 
-<!-- <img  src="https://github.com/user-attachments/assets/78512285-197a-4e4b-8206-ede53f1d6aaa" width ="100%" /><br>
+ <img  src="https://github.com/user-attachments/assets/78512285-197a-4e4b-8206-ede53f1d6aaa" width ="100%" /><br>
 
 <img  src="https://github.com/user-attachments/assets/01e8f759-465a-41ec-9633-8e130dd08f5e" width ="100%" /><br>
 
