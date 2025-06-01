@@ -34,8 +34,6 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
   - 🎨 UI/UX Design (Figma)
   - 🛠 Backend Development (Laravel)
   - 🔥 Firebase & REST APIs
-  - 🧰 Git & GitHub
-
 
 
 
