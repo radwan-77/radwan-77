@@ -27,13 +27,12 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 # 🛠 Skills
 
+<img align="right" src="https://github.com/user-attachments/assets/cb20e0f5-a41b-4805-81cb-847f9100888e" width= "200" />
 
-<img align="right" src="https://github.com/user-attachments/assets/cb20e0f5-a41b-4805-81cb-847f9100888e" width= "170" />
-
-  - 📱 Flutter & Dart
-  - 🎨 UI/UX Design (Figma)
-  - 🛠 Backend Development (Laravel)
-  - 🔥 Firebase & REST APIs
+<h3>📱 Flutter & Dart</h3>
+<h3>🎨 UI/UX Design (Figma)</h3>
+<h3>🛠 Backend Development (Laravel)</h3>
+<h3>🔥 Firebase & REST APIs</h3>
 
 
 
