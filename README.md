@@ -88,6 +88,18 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 - 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)-->
+و📧 Email: your-email@example.com
+
+<!--💼 LinkedIn: linkedin.com/in/your-username
+
+🐦 Twitter: @yourhandle
+
+🌐 Portfolio: yourwebsite.com
+
+💬 Discord: yourusername#1234 (optional)
+
+📍 Location: City, Country (optional)
+-->
 
 <!-- ![image](https://github.com/user-attachments/assets/efc01d21-0037-4edb-88a1-4250a0410532)-->
 <!-- //[![yooooo](https://visitcount.itsvg.in/api?id=radwan-77&icon=4&color=10)](https://visitcount.itsvg.in)-->
