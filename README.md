@@ -87,8 +87,7 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 <!-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)-->
-و📧 Email: your-email@example.com
+- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 <!--💼 LinkedIn: linkedin.com/in/your-username
 
