@@ -26,7 +26,7 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
 <img align="right" src="https://github.com/user-attachments/assets/cb20e0f5-a41b-4805-81cb-847f9100888e" width="200"/>
 
 ### 📱 Mobile Development
-- Flutter (Advanced)
+- Flutter 
 - Dart
 - Kotlin (Android)
 
@@ -38,7 +38,6 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
 ### 🛠 Backend & APIs
 - Laravel
 - REST APIs
-- Firebase (Auth, Firestore, Storage)
 
 ---
 
@@ -90,7 +89,6 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=radwan-77&theme=midnight-purple&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=radwan-77&theme=midnight-purple&hide_border=false)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-77&theme=midnight-purple&layout=compact"/>
