@@ -6,7 +6,7 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 <img  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" /><br>
 
-<!--
+
 <img  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" /><br>
 
  <img  src="https://github.com/user-attachments/assets/78512285-197a-4e4b-8206-ede53f1d6aaa" width ="100%" /><br>
@@ -22,7 +22,9 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 <img  src="https://github.com/user-attachments/assets/e8a1ef3a-67b3-4a03-8954-efe4810155b5" width ="100%" /><br>
 
 <img  src="https://github.com/user-attachments/assets/446c0be9-9ef2-4962-9dab-c98ad26cb7e1" width ="100%" /><br>
--->
+<img src="https://github.com/user-attachments/assets/f5800d27-03f3-4a43-93a5-c994eb6225b6"  width ="100%" /><br>
+
+
 
 
 # 🛠 Skills
@@ -84,22 +86,13 @@ I'm a **mobile developer** focused on **Flutter**, with experience in **backend 
 
 # 📫 Contact Me
 
-<!-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+ 📧 Email: [your.email@example.com](mailto:radwantareq1@gmail.com)  
+ 
+- 💼 LinkedIn: https://www.linkedin.com/in/radwan-tareq
 
-<!--💼 LinkedIn: linkedin.com/in/your-username
+🌐 Portfolio: (https://radwantareq.netlify.app/)
 
-🐦 Twitter: @yourhandle
 
-🌐 Portfolio: yourwebsite.com
-
-💬 Discord: yourusername#1234 (optional)
-
-📍 Location: City, Country (optional)
--->
-
-<!-- ![image](https://github.com/user-attachments/assets/efc01d21-0037-4edb-88a1-4250a0410532)-->
-<!-- //[![yooooo](https://visitcount.itsvg.in/api?id=radwan-77&icon=4&color=10)](https://visitcount.itsvg.in)-->
+ ![image](https://github.com/user-attachments/assets/efc01d21-0037-4edb-88a1-4250a0410532)
+[![yooooo](https://visitcount.itsvg.in/api?id=radwan-77&icon=4&color=10)](https://visitcount.itsvg.in)
 
