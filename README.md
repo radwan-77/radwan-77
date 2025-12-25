@@ -1,23 +1,31 @@
 <h1 align="center">👋 Hi, I'm Radwan Tareq</h1>
+
 <h3 align="center">
-Mobile Developer specializing in <b>Flutter</b>, with solid experience in <b>Backend Development</b> and <b>UI/UX Design</b>
+Mobile Developer specializing in <b>Flutter</b>, with experience in <b>Backend Development</b> and <b>UI/UX Design</b>
 </h3>
 
 <p align="center">
-I build scalable, user-friendly mobile applications with clean architecture, smooth UI, and reliable backend integration.
+I build scalable, high-performance mobile applications with clean architecture, intuitive UI, and reliable backend integration.
 </p>
 
-<img src="https://github.com/user-attachments/assets/f5800d27-03f3-4a43-93a5-c994eb6225b6" width="100%" />
+<p align="center">
+  <!-- Replace the src with your GIF link -->
+  
+  <!--<img  src="https://github.com/user-attachments/assets/b93ef10e-64b3-43dc-99e4-07efdfffde29" width ="100%" />-->
+  <img  src="https://github.com/user-attachments/assets/2fe2faed-db1d-4126-b872-4d598e133b49" width ="100%" />
+
+
+</p>
 
 ---
 
 ## 🧠 About Me
 
 - 📱 Mobile Developer focused on **Flutter & Dart**
-- 🎨 Strong eye for **UI/UX design** (Figma-based workflows)
-- 🛠 Experience building **RESTful backends** with Laravel
-- 🔥 Skilled in **Firebase**, APIs, and app architecture
-- 🚀 Passionate about clean code, performance, and usability
+- 🎨 Strong background in **UI/UX Design (Figma)**
+- 🛠 Backend development using **Laravel & REST APIs**
+- 🔥 Experience with **Firebase (Auth, Firestore, Storage)**
+- 🚀 Passionate about clean code, performance, and user experience
 
 ---
 
@@ -35,9 +43,9 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
 - Wireframing & Prototyping
 - Design Systems
 
-### 🛠 Backend & APIs
+### 🛠 Backend
 - Laravel
-- REST APIs
+- RESTful APIs
 
 ---
 
@@ -48,7 +56,6 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/de265878-5449-4148-a4d6-6347401e460d" width="150"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/7b97247d-1f7a-4450-ab98-794a6dfa5f7a" width="100"/>
 </p>
 
 ---
@@ -76,7 +83,7 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
 
 ---
 
-## 🛠️ Tools & Productivity
+## 🛠️ Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -88,11 +95,10 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=radwan-77&theme=midnight-purple&hide_border=false)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwan-77&theme=midnight-purple&layout=compact"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=radwan-77&theme=midnight-purple&hide_border=false" width="48%" />
 </p>
+
 
 ---
 
@@ -105,5 +111,5 @@ I build scalable, user-friendly mobile applications with clean architecture, smo
 ---
 
 <p align="center">
-✨ Always open to collaboration, learning, and exciting mobile projects ✨
+✨ Open to collaboration,and exciting Flutter projects ✨
 </p>
